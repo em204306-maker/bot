@@ -1,0 +1,38 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.vk.com	TRUE	/	TRUE	1797711124	remixstlid	9104364670313106935_OTnwixEUKdNbkaCwxk9Dhgqjz8jRu8wStxl8ppdn4Ac
+.vk.com	TRUE	/	TRUE	1804059044	remixscreen_width	1536
+.vk.com	TRUE	/	TRUE	1804059044	remixscreen_height	864
+.vk.com	TRUE	/	TRUE	1804059044	remixscreen_dpr	1.25
+.vk.com	TRUE	/	TRUE	1804059044	remixscreen_winzoom	1
+.vk.com	TRUE	/	TRUE	1804059050	remixcolor_scheme_mode	auto
+.vk.com	TRUE	/	FALSE	1801294242	tmr_lvid	cc9d1a16aaede7fa7148da59051ed792
+.vk.com	TRUE	/	FALSE	1801294242	tmr_lvidTS	1739999811882
+.vk.com	TRUE	/	TRUE	1797711124	remixstid	374302205_iA5BESfk2ZbBwXr8tPOqZfzNZXcJJrlp7c3kq5H0jMP
+.vk.com	TRUE	/	TRUE	1776460385	remixuacck	7de76b0e72f41bc067
+.vk.com	TRUE	/	TRUE	1776326231	remixuas	MjE3N2MwYmE2MDE1OTE3ZGZhNmIxZTk0
+.vk.com	TRUE	/	TRUE	1796603935	remixnttpid	vk1.a.dMr95Ka8IrjNXX3ftUOisPX01oVhDwP54OIbh8GZH7Ly94bIHNo1YUGpo848ukRw7L0gy3aTABCPWh_F4gLDeEGZY4lSWNILNtzSS45nf4Si0SOrZ7IpMIqF7OVoW39yLZQbUZU4ll3fdeXQ-d-UyYvJrieugU6eGBEDG_Xzt8M1DlDmRW6uQLpq1H67Db6_
+.vk.com	TRUE	/	TRUE	1797839530	remixsuc	1%3A
+.vk.com	TRUE	/	TRUE	1796898164	remixdmgr	8b3e0c61483e5861e9a644feaa8722340f88a9e3cbbb4142461068e467160e1c
+.vk.com	TRUE	/	TRUE	1804059050	remixdark_color_scheme	1
+.vk.com	TRUE	/	TRUE	1803282196	remixrefkey	fa089897832f4591b5
+.vk.com	TRUE	/	TRUE	1773819045	remixsf	1
+.vk.com	TRUE	/	TRUE	1803139248	remixdt	0
+.vk.com	TRUE	/	TRUE	1803466749	remixlang	0
+.vk.com	TRUE	/	TRUE	1772605841	prcl	60030003d19fd7
+.vk.com	TRUE	/	TRUE	1803819661	remixua	43%7C-1%7C215%7C1743913552
+.vk.com	TRUE	/	TRUE	1804059042	remixpuad	Ii-kHqPCrEwBtz46H1P1SqlzGpzdWnbJOiI7hcspYks
+vk.com	FALSE	/	TRUE	1804004117	remixnsid	vk1.a.0ZAzR2LBkbbO0uLOmKyYKT1y7XY_j1tAqqS2FDGJbRPMi-ID96Bh_on4-57pDKccEfoQk5gsBPGWCYZ1Fu9xvi9oQ01dUrdqKc-gXUGtDidE_kJm6PIDdBkqERkBP2oDHCBVFxnFR-5zyOZ3gkMuevP33l_rtAy4GERe-RBEEEAyVxDb_rTdFuoZUF3cdd_m
+.vk.com	TRUE	/	TRUE	1804586648	remixsid	1_4OdCTxsJnQQESqXV9NbW8o9YFDELm-mtLzJ4NG3kITRXCpgOqYWNnRddlILpfCrXJdX9B0PBfs0Ekj3aqKSW3g
+.vk.com	TRUE	/	TRUE	1772526642	httoken	JTcH9UeN613mbK6-AHadNJrpGr95zHNc9BIBWknot-k-HRUDaioIFGT9WiKe2SkpmisTy1rjwUokAWq37vz9MMCKgC4kDHIu5FEXS98SvWGL5WandF8vQAaVFuPkHf1kdUM
+.vk.com	TRUE	/	TRUE	1804059044	remixscreen_depth	32
+.vk.com	TRUE	/	TRUE	1773127844	remixscreen_orient	1
+.vk.com	TRUE	/	TRUE	0	remixcurr_audio	null
+.vk.com	TRUE	/	TRUE	0	remixmaudio	null
+.vk.com	TRUE	/	TRUE	1773127847	remixgp	91ccf491d08e2f8f5d03bddd144be926
+.vk.com	TRUE	/	FALSE	1773127848	domain_sid	qKZf8pfzz83cwYzVwKAEw%3A1772523047606
+vk.com	FALSE	/	FALSE	1772609449	tmr_detect	0%7C1772523049687
+.vk.com	TRUE	/	TRUE	1775115050	remixseenads	2
+.vk.com	TRUE	/	TRUE	1772523918	remixsts	%7B%22data%22%3A%5B%5B1772523055%2C%22entries_requests%22%2C1%2C%22vmoji%22%2C%22web%22%5D%2C%5B1772523055%2C%22entries_requests%22%2C1%2C%22stickers%22%2C%22web%22%5D%5D%2C%22uniqueId%22%3A233123166.24806726%7D
