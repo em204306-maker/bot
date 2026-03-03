@@ -45,7 +45,7 @@ def download_audio(url: str):
     ydl_opts = {
         # 'ffmpeg_location':
         os.getcwd(),
-        'format': 'bestaudio/best',
+        'format':'bestaudio/best',
         # Оставляем только эту настройку для имени:
         'outtmpl': 'downloads/%(title)s.%(ext)s', 
         'cookiefile': 'vk.com_cookies', 
@@ -162,3 +162,4 @@ async def main():
 if __name__ == "__main__":
 
     asyncio.run(main())
+
