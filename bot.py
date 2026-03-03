@@ -43,6 +43,8 @@ def search_songs(query: str):
 
 def download_audio(url: str):
     ydl_opts = {
+        # 'ffmpeg_location':
+        os.getcwd(),
         'format': 'bestaudio/best',
         # Оставляем только эту настройку для имени:
         'outtmpl': 'downloads/%(title)s.%(ext)s', 
@@ -158,4 +160,5 @@ async def main():
     await dp.start_polling(bot)
 
 if __name__ == "__main__":
+
     asyncio.run(main())
